@@ -1,0 +1,31 @@
+.cajaPadre{
+    display: flex;
+}
+.cajaHijo{
+    width: 50%;
+}
+.cajaRed{
+    background: red;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+}
+
+.rectangulo{
+    width: 15%;
+    
+}
+.imagred{
+
+    background: red;
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+}
+.imgtmñ{
+
+    height: 30%;
+    width: 30%;
+}
+
+
